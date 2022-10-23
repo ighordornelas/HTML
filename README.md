@@ -4,4 +4,15 @@ Projeto desenvolvido no curso da RocketSeat, trilha Explorer, desafio 01, do sta
 
 ![preview](./.github/preview.png)
 
+## Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+## Contato
+
+ighor_dornelas@hotmail.com
+
+
 
